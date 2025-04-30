@@ -65,10 +65,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=white">
   </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="Vue" src="https://img.shields.io/badge/Vue%20-%2320232a.svg?logo=vuejs&logoColor=white">
-  </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
@@ -102,15 +98,44 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 &emsp; 
  </p>
 
-### <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" width="30"/>Mobile App
+### <img width="30"/>WEBSITE
 <p align="left">
   &emsp; 
-  <a target="_blank">
-    <img alt="ReactNative" src="https://img.shields.io/badge/ReactNative%20-%2320232a.svg?logo=react&logoColor=white">
-  </a>
+<a target="_blank">
+  <img alt="Reactjs" src="https://img.shields.io/badge/Reactjs-20232A?logo=react&logoColor=61DAFB">
+</a>
+
+<a target="_blank">
+  <img alt="Next js" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+</a>
+
   &emsp; 
  </p>
  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rey-sok" alt="rey-sok" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on **GEIP ETECH**
+
+- 🌱 I’m currently learning **REACTJS & NEXTJS**
+
+- 💬 Ask me about **next , note**
+
+- 📫 How to reach me **sok2005r@gmail.com**
+
+- ⚡ Fun fact **I like Football and Volleyball and than Music**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rey-sok&show_icons=true&locale=en&layout=compact" alt="rey-sok" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rey-sok&show_icons=true&locale=en" alt="rey-sok" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rey-sok&" alt="rey-sok" /></p>
+
 
 
 

@@ -51,7 +51,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 </p>
 
 
-### <img src="https://www.logigroup.com/images/modules/react.gif" width="30"/> Frontend Development
+### <img src="https://www.logigroup.com/images/modules/react.gif" width="30"/> MERN Stack Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 

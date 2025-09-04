@@ -12,7 +12,7 @@
 
 <h3> Here's some fun facts about me: </h3>
 
--  **I'm a hopeful web and app developer 👩🏻‍💻**
+-  **I'm a hopeful web developer 👩🏻‍💻**
 -  **I'd love to get into a career in science in the future alongside programming 👩🏻‍⚕️**
 -  *****LOVE*** playing soccer/football ⚽️!**🙂**
 
@@ -22,19 +22,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/visothipong7772/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 ## 🛠 Rey Sok'Skills
 
@@ -44,7 +31,19 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 &emsp;
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
    </a>
   &emsp;
 &emsp; 
@@ -63,7 +62,27 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="NextJS" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="MangoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 

@@ -87,10 +87,6 @@ I'm currently available for:
 
 📧 **Email:** sok2005r@gmail.com
 
-🌐 **Portfolio:** https://www.rey-sok.xyz
-
-📅 **Book a Call:** https://calendly.com/visothipong7772/30min
-
 ---
 
 ⭐ Thanks for visiting my profile! I'm always open to exciting opportunities, collaborations, and freelance projects.
